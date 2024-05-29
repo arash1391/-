@@ -1,0 +1,22 @@
+.𝖑𝖊𝖌𝖊𝖓𝖉𝖔𝖋𝖌𝖆𝖒𝖊{
+    color: rgb(253, 0, 0);
+}
+body{
+    text-align: center;
+    background-color: rgb(122, 27, 160);
+    background-color: cover;
+    justify-content: center;
+    position: relative;
+    display: block;
+    
+
+
+
+}
+li{
+    text-align: left;
+}
+.pou{
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
